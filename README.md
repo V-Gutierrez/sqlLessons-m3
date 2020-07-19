@@ -1,3 +1,3 @@
 # sqlLessons-m3
 
-Repositório para consulta de comandos SQL
+A Repository to wrap some SQL cmd lines
